@@ -1,26 +1,14 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-typography_spectrum: 0.9146079
+layout_spectrum: 0.1404828
 color:
   saturation: 0.7298604
+  lightness: 0.7459721
   brandStrength: 1
-  rhythmicContrast: 0.3700322
   brandColors:
     - '#131314'
     - '#FB0102'
     - '#FFFC02'
     - '#42B403'
     - '#FBFCF2'
-  lightness: 0.7459721
-layout_spectrum: 0.4366273
+  rhythmicContrast: 0.3700322
+typography_spectrum: 0.6278195
 name: kcarnes
