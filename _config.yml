@@ -1,0 +1,14 @@
+layout_spectrum: 0.4366273
+typography_spectrum: 0.6278195
+color:
+  saturation: 0.7298604
+  lightness: 0.7459721
+  brandStrength: 1
+  brandColors:
+    - '#131314'
+    - '#FB0102'
+    - '#FFFC02'
+    - '#42B403'
+    - '#FBFCF2'
+  rhythmicContrast: 0.3700322
+name: kcarnes
